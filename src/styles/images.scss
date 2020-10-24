@@ -1,0 +1,57 @@
+.images {
+    display: flex;
+    padding: 20px;
+    background-color: rgb(34,34,34);
+    // border-radius: 6px;
+    // margin: 20px;
+    width: 100%;
+    min-height: 100vh;
+    font-family: 'Short Stack', cursive;
+    
+
+    .each-image {
+        width: 20%;
+        position: relative;
+        margin: 5px;
+
+        .image {
+            width: 100%;
+            border-radius: 6px;
+        }
+
+        .info {
+            display: none;
+        }
+
+        
+    }
+
+    .each-image:hover {
+        .image {
+            filter: brightness(60%);
+        }
+
+        .info {
+            display: block;
+            position: absolute;
+            z-index: 1;
+            top: 0;
+            left: 5%;
+            // color: white;
+            text-align: left;
+
+            .day {
+                background-color: white;
+                color: black;
+                text-align: center;
+                padding: 3px;
+            }
+
+            .name {
+                color: white;
+            }
+        }
+    }
+
+
+}
