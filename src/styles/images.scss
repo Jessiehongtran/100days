@@ -22,8 +22,6 @@
         .info {
             display: none;
         }
-
-        
     }
 
     .each-image:hover {
@@ -52,6 +50,23 @@
             }
         }
     }
+
+    .each-image-enlarge {
+        width: 95%;
+        position: absolute;
+        z-index: 1;
+        margin: 5px;
+
+        .image {
+            width: 100%;
+            border-radius: 6px;
+        }
+
+        .info {
+            display: none;
+        }
+    }
+
 
 
 }
