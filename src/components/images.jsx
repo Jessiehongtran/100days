@@ -33,39 +33,15 @@ export default class Images extends React.Component {
                         {
                             id: 4,
                             day: 3,
-                            name: "Fan",
-                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1603755480/IMG_9802_aiwtcm.jpg"
+                            name: "Laptop stand",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1603858077/IMG_9805_dg1p6q.jpg"
                         },
                         {
                             id: 5,
-                            day: 3,
-                            name: "Fan",
-                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1603755480/IMG_9802_aiwtcm.jpg"
+                            day: 4,
+                            name: "Book shelf",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1603937186/IMG_9809_psuplb.jpg"
                         },
-                        {
-                            id: 6,
-                            day: 3,
-                            name: "Fan",
-                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1603755480/IMG_9802_aiwtcm.jpg"
-                        },
-                        {
-                            id: 7,
-                            day: 3,
-                            name: "Fan",
-                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1603755480/IMG_9802_aiwtcm.jpg"
-                        },
-                        {
-                            id: 8,
-                            day: 3,
-                            name: "Fan",
-                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1603755480/IMG_9802_aiwtcm.jpg"
-                        },
-                        {
-                            id: 9,
-                            day: 3,
-                            name: "Fan",
-                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1603755480/IMG_9802_aiwtcm.jpg"
-                        }
                     ],
             enlarged: false,
             ind: -1
