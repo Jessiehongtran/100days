@@ -92,7 +92,8 @@ export default class Images extends React.Component {
                         if (enlarged && i == ind){
                             return <div 
                                 className="each-image-enlarge" 
-                                onClick={() => this.toggleImage(i)} >
+                                // onClick={() => this.toggleImage(i)} 
+                                >
                                     <img className="image" src={each.image}/>
                                     <div className="info">
                                         <p className="day">Day {each.day}</p>
@@ -103,7 +104,8 @@ export default class Images extends React.Component {
                         } else {
                         return <div 
                                 className="each-image" 
-                                onClick={() => this.toggleImage(i)} >
+                                // onClick={() => this.toggleImage(i)} 
+                                >
                                     <img className="image" src={each.image}/>
                                     <div className="info">
                                         <p className="day">Day {each.day}</p>
