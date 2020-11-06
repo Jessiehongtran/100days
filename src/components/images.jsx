@@ -78,6 +78,12 @@ export default class Images extends React.Component {
                             name: "My violin",
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1604549479/IMG_9841_pyz4ii.jpg"
                         },
+                        {
+                            id: 12,
+                            day: 12,
+                            name: "Chair",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1604635908/IMG_9842_yy0qwc.jpg"
+                        },
                     ],
             enlarged: false,
             ind: -1
