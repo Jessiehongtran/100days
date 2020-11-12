@@ -69,7 +69,7 @@ export default class Images extends React.Component {
                         {
                             id: 10,
                             day: 10,
-                            name: "Oculus",
+                            name: "Oculus VR",
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1604458027/IMG_9835_2_qaso69.jpg"
                         },
                         {
@@ -83,6 +83,48 @@ export default class Images extends React.Component {
                             day: 12,
                             name: "Chair",
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1604635908/IMG_9842_yy0qwc.jpg"
+                        },
+                        {
+                            id: 13,
+                            day: 13,
+                            name: "Earbud box",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1604721229/IMG_9845_uoetjs.jpg"
+                        },
+                        {
+                            id: 14,
+                            day: 14,
+                            name: "Claw hair clip",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1604809352/IMG_9852_2_rlhjsu.jpg"
+                        },
+                        {
+                            id: 15,
+                            day: 15,
+                            name: "Cup with broken arm",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1604809359/IMG_9846_sbjxha.jpg"
+                        },
+                        {
+                            id: 16,
+                            day: 16,
+                            name: "Happy Japanese doll",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1604899475/IMG_9857_nhgudt.jpg"
+                        },
+                        {
+                            id: 17,
+                            day: 17,
+                            name: "Keyboard",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1604982033/IMG_9861_2_exrd93.jpg"
+                        },
+                        {
+                            id: 18,
+                            day: 18,
+                            name: "Birthday gift bag",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605067987/IMG_9864_yycbbk.jpg"
+                        },
+                        {
+                            id: 19,
+                            day: 19,
+                            name: "Bottle & Hair brush",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605152778/IMG_9872_mmf7af.jpg"
                         },
                     ],
             enlarged: false,
