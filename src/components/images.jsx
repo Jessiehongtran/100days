@@ -126,6 +126,72 @@ export default class Images extends React.Component {
                             name: "Bottle & Hair brush",
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605152778/IMG_9872_mmf7af.jpg"
                         },
+                        {
+                            id: 20,
+                            day: 20,
+                            name: "My iPhone5",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605243031/IMG_9874_ebytvi.jpg"
+                        },
+                        {
+                            id: 21,
+                            day: 21,
+                            name: "Lipstick",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605316362/IMG_9878_gteqne.jpg"
+                        },
+                        {
+                            id: 22,
+                            day: 22,
+                            name: "Pinecone",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605410549/IMG_9882_zmsl5m.jpg"
+                        },
+                        {
+                            id: 23,
+                            day: 23,
+                            name: "Lambda hat",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605500632/IMG_9932_ex7lqb.jpg"
+                        },
+                        {
+                            id: 24,
+                            day: 24,
+                            name: "Pencil case",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605583483/IMG_9946_rt4lmy.jpg"
+                        },
+                        {
+                            id: 25,
+                            day: 25,
+                            name: "Nail Clipper",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605675271/IMG_9951_m7kofp.jpg"
+                        },
+                        {
+                            id: 26,
+                            day: 26,
+                            name: "Pencil crayon box",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605762782/IMG_9953_hjuecg.jpg"
+                        },
+                        {
+                            id: 27,
+                            day: 27,
+                            name: "Watercolor paint set",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605845240/IMG_9959_vs11tp.jpg"
+                        },
+                        {
+                            id: 28,
+                            day: 28,
+                            name: "Hair Roller Curler",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605930198/IMG_9970_is6rgh.jpg"
+                        },
+                        {
+                            id: 29,
+                            day: 29,
+                            name: "Mask",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1605930230/IMG_9971_coowos.jpg"
+                        },
+                        {
+                            id: 30,
+                            day: 30,
+                            name: "Autumn leaves",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606019931/IMG_9975_xbvjk4.jpg"
+                        },
                     ],
             enlarged: false,
             ind: -1
