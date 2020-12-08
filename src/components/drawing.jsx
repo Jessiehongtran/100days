@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/images.scss'
+import '../styles/drawing.scss'
 
 export default class Images extends React.Component {
     constructor(props){
@@ -191,6 +191,108 @@ export default class Images extends React.Component {
                             day: 30,
                             name: "Autumn leaves",
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606019931/IMG_9975_xbvjk4.jpg"
+                        },
+                        {
+                            id: 31,
+                            day: 31,
+                            name: "Screen cleaner",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606112103/IMG_9985_ddzjwu.jpg"
+                        },
+                        {
+                            id: 32,
+                            day: 32,
+                            name: "Lip balm",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606280091/IMG_9990_bt6uk8.jpg"
+                        },
+                        {
+                            id: 33,
+                            day: 33,
+                            name: "Pencil sharpener",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606280094/IMG_9993_wguuan.jpg"
+                        },
+                        {
+                            id: 34,
+                            day: 34,
+                            name: "Letscom earphone box",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606370786/IMG_9994_oapwfj.jpg"
+                        },
+                        {
+                            id: 35,
+                            day: 35,
+                            name: "Kid chair",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606506268/IMG_0008_egabhf.jpg"
+                        },
+                        {
+                            id: 36,
+                            day: 36,
+                            name: "Eyelash curler",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606543133/IMG_0010_up5305.jpg"
+                        },
+                        {
+                            id: 37,
+                            day: 37,
+                            name: "Knitting",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606630055/IMG_0026_qlahzo.jpg"
+                        },
+                        {
+                            id: 38,
+                            day: 38,
+                            name: "Full moon through window",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606888411/IMG_0051_poup80.jpg"
+                        },
+                        {
+                            id: 39,
+                            day: 39,
+                            name: "Macbook Pro",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606888414/IMG_0052_cznawi.jpg"
+                        },
+                        {
+                            id: 40,
+                            day: 40,
+                            name: "Water Color Paper",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1606976986/IMG_0063_qt50dy.jpg"
+                        },
+                        {
+                            id: 41,
+                            day: 41,
+                            name: "Tweezer",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607054684/IMG_0067_cytcyg.jpg"
+                        },
+                        {
+                            id: 42,
+                            day: 42,
+                            name: "Rosary",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607055082/IMG_0071_yme32h.jpg"
+                        },
+                        {
+                            id: 42,
+                            day: 42,
+                            name: "Rosary (darken)",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607055079/IMG_0073_p0zrcm.jpg"
+                        },
+                        {
+                            id: 43,
+                            day: 43,
+                            name: "Cream Tube",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607142486/IMG_0084_cizelq.jpg"
+                        },
+                        {
+                            id: 44,
+                            day: 44,
+                            name: "Book",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607234632/IMG_0098_qkymzf.jpg"
+                        },
+                        {
+                            id: 45,
+                            day: 45,
+                            name: "Lips",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607321269/IMG_0115_g0tkqb.jpg"
+                        },
+                        {
+                            id: 46,
+                            day: 46,
+                            name: "Foundation cream",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607387841/IMG_0125_jdziiw.jpg"
                         },
                     ],
             enlarged: false,

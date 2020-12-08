@@ -1,12 +1,38 @@
 import './App.css';
 import Nav from './components/nav';
-import Images from './components/images';
+import Drawing from './components/drawing';
+import Building from './components/building';
+import { Route } from 'react-router-dom';
 
 function App() {
   return (
     <div className="App">
-      <Nav />
-      <Images />
+      <Route
+        exact path="/"
+        render = {
+          props => {
+            return (
+              <>
+                <Nav />
+                <Drawing />
+              </>
+            )
+          }
+        }
+      />
+      <Route
+        exact path="/building"
+        render = {
+          props => {
+            return (
+              <>
+                <Nav />
+                <Building />
+              </>
+            )
+          }
+        }
+      />
     </div>
   );
 }
