@@ -294,6 +294,150 @@ export default class Images extends React.Component {
                             name: "Foundation cream",
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607387841/IMG_0125_jdziiw.jpg"
                         },
+                        {
+                            id: 47,
+                            day: 47,
+                            name: "5 Dollar Bill",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607495054/IMG_0137_tfxufl.jpg"
+                        },
+                        {
+                            id: 48,
+                            day: 48,
+                            name: "Fashion Tape",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607575252/IMG_0139_ogx5gj.jpg"
+                        },
+                        {
+                            id: 49,
+                            day: 49,
+                            name: "Almost Empty Toothpaste",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607660463/IMG_0149_d4l2kn.jpg"
+                        },
+                        {
+                            id: 50,
+                            day: 50,
+                            name: "Glide Floss",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607751391/IMG_0162_anoygj.jpg"
+                        },
+                        {
+                            id: 51,
+                            day: 51,
+                            name: "Autumn Leave",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1607918773/IMG_0181_yzwgyn.jpg"
+                        },
+                        {
+                            id: 52,
+                            day: 52,
+                            name: "Book in a different angel",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1608011367/IMG_0235_tgbecu.jpg"
+                        },
+                        {
+                            id: 53,
+                            day: 53,
+                            name: "Razor",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1608097358/IMG_0239_n5dyys.jpg"
+                        },
+                        {
+                            id: 54,
+                            day: 54,
+                            name: "She with book",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1608181988/IMG_0247_apemav.jpg"
+                        },
+                        {
+                            id: 55,
+                            day: 55,
+                            name: "Apple",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1608269216/IMG_0264_ggutk0.jpg"
+                        },
+                        {
+                            id: 56,
+                            day: 56,
+                            name: "State of earphone",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1608494968/IMG_0269_ktmhol.jpg"
+                        },
+                        {
+                            id: 57,
+                            day: 57,
+                            name: "My violin bowl",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1608698792/IMG_0303_oitcfh.jpg"
+                        },
+                        {
+                            id: 58,
+                            day: 58,
+                            name: "A mirror",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1608956726/IMG_0319_wpbj2g.jpg"
+                        },
+                        {
+                            id: 59,
+                            day: 59,
+                            name: "Skin care",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1609217125/IMG_0327_2_gge05m.jpg"
+                        },
+                        {
+                            id: 60,
+                            day: 60,
+                            name: "My hair tie",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1609390457/IMG_0346_r1mfuh.jpg"
+                        },
+                        {
+                            id: 61,
+                            day: 61,
+                            name: "Toothbrush",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1609391878/IMG_0348_jql4jv.jpg"
+                        },
+                        {
+                            id: 62,
+                            day: 62,
+                            name: "Xmas Gift",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1609554644/IMG_0392_pnklin.jpg"
+                        },
+                        {
+                            id: 63,
+                            day: 63,
+                            name: "Scissors",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1609634746/IMG_0399_zywv8k.jpg"
+                        },
+                        {
+                            id: 64,
+                            day: 64,
+                            name: "Glove",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1609724208/IMG_0412_id6bdn.jpg"
+                        },
+                        {
+                            id: 65,
+                            day: 65,
+                            name: "Glass",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1610083482/IMG_0430_wml04i.jpg"
+                        },
+                        {
+                            id: 66,
+                            day: 66,
+                            name: "Sanitize bottle",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1610336507/IMG_0473_hm66hm.jpg"
+                        },
+                        {
+                            id: 67,
+                            day: 67,
+                            name: "Top of bottle",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1610503006/IMG_0480_dlhwru.jpg"
+                        },
+                        {
+                            id: 68,
+                            day: 68,
+                            name: "Cables",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1610503009/IMG_0479_t4c0qw.jpg"
+                        },
+                        {
+                            id: 69,
+                            day: 69,
+                            name: "Anten",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1611035185/IMG_0499_zkxfi7.jpg"
+                        },
+                        {
+                            id: 70,
+                            day: 70,
+                            name: "Clock",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1611035172/IMG_0514_yw0csk.jpg"
+                        },
                     ],
             enlarged: false,
             ind: -1
@@ -317,19 +461,6 @@ export default class Images extends React.Component {
         return (
             <div className="images">
                 {images.map(function(each, i){ 
-                        if (enlarged && i == ind){
-                            return <div 
-                                className="each-image-enlarge" 
-                                // onClick={() => this.toggleImage(i)} 
-                                >
-                                    <img className="image" src={each.image}/>
-                                    <div className="info">
-                                        <p className="day">Day {each.day}</p>
-                                        <p className="name">{each.name}</p>
-                                    </div>
-                            </div>
-
-                        } else {
                         return <div 
                                 className="each-image" 
                                 // onClick={() => this.toggleImage(i)} 
@@ -340,7 +471,6 @@ export default class Images extends React.Component {
                                         <p className="name">{each.name}</p>
                                     </div>
                         </div>
-                        }
                 }, this
                 )}
             </div>

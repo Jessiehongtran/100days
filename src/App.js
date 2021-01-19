@@ -2,6 +2,7 @@ import './App.css';
 import Nav from './components/nav';
 import Drawing from './components/drawing';
 import Building from './components/building';
+import Painting from './components/painting';
 import { Route } from 'react-router-dom';
 
 function App() {
@@ -15,6 +16,19 @@ function App() {
               <>
                 <Nav />
                 <Drawing />
+              </>
+            )
+          }
+        }
+      />
+      <Route
+        exact path="/painting"
+        render = {
+          props => {
+            return (
+              <>
+                <Nav />
+                <Painting />
               </>
             )
           }
