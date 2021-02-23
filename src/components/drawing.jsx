@@ -438,6 +438,84 @@ export default class Images extends React.Component {
                             name: "Clock",
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1611035172/IMG_0514_yw0csk.jpg"
                         },
+                        {
+                            id: 71,
+                            day: 71,
+                            name: "Brush bag",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1611202634/IMG_0527_dqfv90.jpg"
+                        },
+                        {
+                            id: 72,
+                            day: 72,
+                            name: "Lamp",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1611709001/IMG_0535_l82yd3.jpg"
+                        },
+                        {
+                            id: 73,
+                            day: 73,
+                            name: "Violin case",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1611708986/IMG_0553_cku8dq.jpg"
+                        },
+                        {
+                            id: 74,
+                            day: 74,
+                            name: "Hat",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1611708989/IMG_0562_bwcnez.jpg"
+                        },
+                        {
+                            id: 75,
+                            day: 75,
+                            name: "Watercolor papers",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1611807371/IMG_0580_aio4q5.jpg"
+                        },
+                        {
+                            id: 76,
+                            day: 76,
+                            name: "Lady on a couch",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1612237224/IMG-0609_t879rk.jpg"
+                        },
+                        {
+                            id: 77,
+                            day: 77,
+                            name: "My new chair",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1612411433/IMG_0621_qjmuz9.jpg"
+                        },
+                        {
+                            id: 78,
+                            day: 78,
+                            name: "Mouse",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1613016721/IMG_0623_w37hcc.jpg"
+                        },
+                        {
+                            id: 79,
+                            day: 79,
+                            name: "Lamp",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1613016724/IMG_0663_lbwhqu.jpg"
+                        },
+                        {
+                            id: 80,
+                            day: 80,
+                            name: "Suitcase",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1613016730/IMG_0665_paj6ze.jpg"
+                        },
+                        {
+                            id: 81,
+                            day: 81,
+                            name: "Chair",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1614055272/IMG_0692_zwejxm.jpg"
+                        },
+                        {
+                            id: 82,
+                            day: 82,
+                            name: "Mirror",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1614055283/IMG_0693_aatuwv.jpg"
+                        },
+                        {
+                            id: 83,
+                            day: 83,
+                            name: "Macbook Charger",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1614055287/IMG_0739_bshkrf.jpg"
+                        },
                     ],
             enlarged: false,
             ind: -1
