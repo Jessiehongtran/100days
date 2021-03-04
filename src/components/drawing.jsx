@@ -516,6 +516,18 @@ export default class Images extends React.Component {
                             name: "Macbook Charger",
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1614055287/IMG_0739_bshkrf.jpg"
                         },
+                        {
+                            id: 84,
+                            day: 84,
+                            name: "Rose",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1614689489/IMG_0755_eykcq8.jpg"
+                        },
+                        {
+                            id: 85,
+                            day: 85,
+                            name: "Lotion",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1614689472/IMG_0753_oxrjy1.jpg"
+                        },
                     ],
             enlarged: false,
             ind: -1
