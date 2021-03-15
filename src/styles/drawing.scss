@@ -1,15 +1,4 @@
 .images {
-    // display: flex;
-    // flex-wrap: wrap;
-    // flex-flow: column wrap;
-    // justify-content: flex-start;
-    // align-items: flex-start;
-    // background-color: rgb(34,34,34);
-    // position: relative;
-    // width: 100%;
-    // min-height: 100vh;
-    // font-family: 'Short Stack', cursive;
-    // height: 1500px;
     width: 100%;
     overflow: hidden;
     margin-bottom: -1.8em;
@@ -25,16 +14,9 @@
     background-color: rgb(34,34,34);
     padding: 20px 15px 20px 5px;
     font-family: 'Short Stack', cursive;
-
-    @media (max-width: 500px){
-        -webkit-column-count: 1;
-    }
     
 
     .each-image {
-        // width: 28%;
-        // position: relative;
-        // margin: 5px;
         margin-bottom: 1.8em;
         -webkit-column-break-inside: avoid;
         -moz-column-break-inside: avoid;
@@ -49,43 +31,34 @@
         .info {
             display: none;
         }
-
-        @media (max-width: 500px){
-           margin-left: 10px;
-           margin-right: 10px;
-        }
     }
 
     .each-image:hover {
-            .image {
-                filter: brightness(60%);
+        .image {
+            filter: brightness(60%);
+        }
+
+        .info {
+            display: block;
+            position: absolute;
+            z-index: 1;
+            top: 0;
+            left: 5%;
+            // color: white;
+            text-align: left;
+
+            .day {
+                background-color: white;
+                color: black;
+                text-align: center;
+                padding: 3px;
             }
 
-            .info {
-                display: block;
-                position: absolute;
-                z-index: 1;
-                top: 0;
-                left: 5%;
-                // color: white;
-                text-align: left;
-
-                .day {
-                    background-color: white;
-                    color: black;
-                    text-align: center;
-                    padding: 3px;
-                }
-
-                .name {
-                    color: white;
-                }
+            .name {
+                color: white;
             }
-
-            
+        }
     }
-    
-
 
     .each-image-enlarge {
         width: 95%;
