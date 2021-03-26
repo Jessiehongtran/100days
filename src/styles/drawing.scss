@@ -1,15 +1,4 @@
 .images {
-    // display: flex;
-    // flex-wrap: wrap;
-    // flex-flow: column wrap;
-    // justify-content: flex-start;
-    // align-items: flex-start;
-    // background-color: rgb(34,34,34);
-    // position: relative;
-    // width: 100%;
-    // min-height: 100vh;
-    // font-family: 'Short Stack', cursive;
-    // height: 1500px;
     width: 100%;
     overflow: hidden;
     margin-bottom: -1.8em;
@@ -28,9 +17,6 @@
     
 
     .each-image {
-        // width: 28%;
-        // position: relative;
-        // margin: 5px;
         margin-bottom: 1.8em;
         -webkit-column-break-inside: avoid;
         -moz-column-break-inside: avoid;
