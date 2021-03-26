@@ -45,9 +45,27 @@
         .info {
             display: none;
         }
+
+        .heart {
+            display: none;
+            z-index: 10;
+            position: absolute;
+            left: 85%; 
+            top: 5%;
+
+            .heart-count {
+                margin: 0;
+                color: white;
+                font-size: 12px;
+            }
+        }
     }
 
     .each-image:hover {
+        .heart {
+            display: block
+        }
+
         .image {
             filter: brightness(60%);
         }
