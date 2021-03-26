@@ -552,6 +552,54 @@ export default class Images extends React.Component {
                             name: "Bottom of a blender",
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1615580150/IMG_0792_y9wxwt.jpg"
                         },
+                        {
+                            id: 90,
+                            day: 90,
+                            name: "Laundry basket",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1615682556/IMG_0798_elhhlr.jpg"
+                        },
+                        {
+                            id: 91,
+                            day: 91,
+                            name: "Comb",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1615682575/IMG_0799_kuyggg.jpg"
+                        },
+                        {
+                            id: 92,
+                            day: 92,
+                            name: "Baby powder",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1615952884/IMG_0801_kgumvj.jpg"
+                        },
+                        {
+                            id: 93,
+                            day: 93,
+                            name: "Another chair",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1615952873/IMG_0803_qrx9ux.jpg"
+                        },
+                        {
+                            id: 94,
+                            day: 94,
+                            name: "Mac chargers",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1616764041/IMG_0809_ld8tn9.jpg"
+                        },
+                        {
+                            id: 95,
+                            day: 95,
+                            name: "Spoon",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1616764043/IMG_0836_c1lfpx.jpg"
+                        },
+                        {
+                            id: 96,
+                            day: 96,
+                            name: "Perfume",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1616764046/IMG_0838_txdqnz.jpg"
+                        },
+                        {
+                            id: 97,
+                            day: 97,
+                            name: "Half of pencil",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1616764055/IMG_0839_h01jh9.jpg"
+                        },
                     ],
             enlarged: false,
             ind: -1
