@@ -154,6 +154,22 @@ export default class Painting extends React.Component {
                             id: 36,
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1615952898/IMG_0800_kolv7f.jpg"
                         },
+                        {
+                            id: 37,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1617296433/IMG_0863_feyhkz.jpg"
+                        },
+                        {
+                            id: 38,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1617296429/IMG_0860_qbtt1y.jpg"
+                        },
+                        {
+                            id: 39,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1617296437/IMG_0861_tubwit.jpg"
+                        },
+                        {
+                            id: 40,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1617897599/IMG_0885_nxovfo.jpg"
+                        },
                     ],
             ind: -1
         }

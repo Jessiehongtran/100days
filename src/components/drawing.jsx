@@ -701,6 +701,28 @@ export default class Images extends React.Component {
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1616764055/IMG_0839_h01jh9.jpg",
                             heart_count: 0
                         },
+                        {
+                            id: 98,
+                            day: 98,
+                            name: "Sock",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1617296424/IMG_0868_mqxt7o.jpg",
+                            heart_count: 0
+                        },
+                        {
+                            id: 99,
+                            day: 99,
+                            name: "Tape",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1617897516/IMG_0871_ukmxn1.jpg",
+                            heart_count: 0
+                        },
+                        {
+                            id: 100,
+                            day: 100,
+                            name: "Bike",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1617897567/IMG_0883_yqeby2.jpg",
+                            heart_count: 0
+                        },
+
                     ],
             enlarged: false,
             ind: -1,
