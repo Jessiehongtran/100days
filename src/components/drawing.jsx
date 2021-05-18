@@ -722,7 +722,41 @@ export default class Images extends React.Component {
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1617897567/IMG_0883_yqeby2.jpg",
                             heart_count: 0
                         },
-
+                        {
+                            id: 101,
+                            day: 101,
+                            name: "State of Band",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1621317914/IMG_0991_hjdf57.jpg",
+                            heart_count: 0
+                        },
+                        {
+                            id: 102,
+                            day: 102,
+                            name: "Orange skin",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1621317918/IMG_1065_sbj3ai.jpg",
+                            heart_count: 0
+                        },
+                        {
+                            id: 103,
+                            day: 103,
+                            name: "Digital Camera",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1621318119/IMG_1075_uvedp8.jpg",
+                            heart_count: 0
+                        },
+                        {
+                            id: 104,
+                            day: 104,
+                            name: "Hair Tie",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1621318126/IMG_1074_lt42jg.jpg",
+                            heart_count: 0
+                        },
+                        {
+                            id: 105,
+                            day: 105,
+                            name: "Charger",
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1621318161/IMG_1077_ucfbzs.jpg",
+                            heart_count: 0
+                        },
                     ],
             enlarged: false,
             ind: -1,
