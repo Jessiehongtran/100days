@@ -173,6 +173,78 @@ export default class Painting extends React.Component {
                         {
                             id: 41,
                             image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1619997522/100_6522_yutlis.jpg"
+                        },
+                        {
+                            id: 42,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108584/image_50429697_iuz4q1.jpg"
+                        },
+                        {
+                            id: 43,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108559/image_67183617_ioksmg.jpg"
+                        },
+                        {
+                            id: 44,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108547/image_50403585_xufgab.jpg"
+                        },
+                        {
+                            id: 45,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108543/image_50392065_fscwyi.jpg"
+                        },
+                        {
+                            id: 46,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108530/image_67116033_ovublp.jpg"
+                        },
+                        {
+                            id: 47,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108524/image_50359553_a3evxp.jpg"
+                        },
+                        {
+                            id: 48,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108467/image_67145217_1_k9plaj.jpg"
+                        },
+                        {
+                            id: 49,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108442/image_50348801_wkp0uu.jpg"
+                        },
+                        {
+                            id: 50,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108433/image_67174401_ory09f.jpg"
+                        },
+                        {
+                            id: 51,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108425/image_67132929_fokrcy.jpg"
+                        },
+                        {
+                            id: 52,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108411/image_67172609_duuaxb.jpg"
+                        },
+                        {
+                            id: 53,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108401/image_67148033_orgepp.jpg"
+                        },
+                        {
+                            id: 54,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108391/image_50395393_tawexx.jpg"
+                        },
+                        {
+                            id: 55,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108382/image_67129089_cbv2jb.jpg"
+                        },
+                        {
+                            id: 56,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108368/image_50405633_ja5ehq.jpg"
+                        },
+                        {
+                            id: 57,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108362/image_50380289_nmzfpd.jpg"
+                        },
+                        {
+                            id: 58,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108358/image_50390785_xwxkgr.jpg"
+                        },
+                        {
+                            id: 59,
+                            image: "https://res.cloudinary.com/dfulxq7so/image/upload/v1640108355/image_67145217_n50hxv.jpg"
                         }
                     ],
             ind: -1
